@@ -12,9 +12,9 @@ Express: http://expressjs.com/
 
 ## Inspelningar
 
-Förmiddag: 
+Förmiddag: https://academediase.sharepoint.com/:v:/s/Frontend20Helsingborg/EXc-o1uuzCJDkDAXluErwwQBkmx5KJId59XRuSuNYDwLXg?e=wIDq7I
 
-Eftermiddag: 
+Eftermiddag: https://academediase.sharepoint.com/:v:/s/Frontend20Helsingborg/EQ9Vm_eVA5ZNs4xRGxJRY88BJfX6bYfVb_PCma3b2C_o_g?e=Od8W8u
 
 ## Tidigare lektioner
 
