@@ -21,3 +21,12 @@ let quote = 'Be yourself. Everyone else is already taken.';
 fs.writeFile('quotes.txt', quote, (error) => {
     console.log('Quote saved!');
 });
+
+fs.readFile('style.css', 'utf8', (error, content) => {
+    const numberOfIds = content.split('#');
+    console.log('ID:n ', numberOfIds);
+    for(let i = 0; i < numberOfIds.length; i++) {
+        console.log(`I position ${i} finns ${numberOfIds[i]}`);
+    }
+    console.log('Antal id:n är ', numberOfIds.length - 1);
+});
